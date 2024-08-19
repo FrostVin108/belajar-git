@@ -1,0 +1,37 @@
+/* font */
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.trebuchet-ms{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   ;
+}
+
+.times-new-roman{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.moderustic{
+    font-family: 'Moderustic', 'Regular 400', Sans-serif ;
+}
+
+.roboto{
+    font-family: 'Roboto', 'Medium 500', sans-serif;
+}
+
+/* size */
+
+.login-username-text{
+    font-size: 19px;
+    color: rgb(92, 92, 92);
+}
+
+.login-password-text{
+    font-size: 19px;
+    color: rgb(92, 92, 92);
+}
+
+.error-message{
+    font-size: 16px;
+    color: red;
+}

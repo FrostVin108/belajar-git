@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="font-login.css">
+    <script src="script.js"></script>
+    <title>Document</title>
+</head>
+
+<body class="background"">
+        <div class="card-login">
+            <div class="login-card-text">
+                <h1 class="roboto">
+                    Login
+                </h1>
+            </div>
+            
+            <div class="login-format roboto">
+                <b class="login-username-text">
+                    Username
+                </b>
+                <input class="input-username" type="text" id="name" placeholder="Username">
+                
+                <b class="login-password-text">
+                    Password
+                </b>
+                <input class="input-password" type="password" id="password" placeholder="Password">
+            </div>  
+            
+            <div class="button-card">
+                <button onclick="Validasi()" class="login-btn">Login</button>
+                <p id="demo" class="error-message"></p>
+            </div>
+        </div>
+</body>
+</html>

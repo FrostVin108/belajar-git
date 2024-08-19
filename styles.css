@@ -1,0 +1,76 @@
+/* background */
+.background{
+    width: auto;    
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    background-image: linear-gradient(90deg, #e100ff 0%, #0066ff);
+    margin: 100px;   
+    /* border: solid 2px yellow; */
+    
+}
+
+/* card */
+.card-login{
+    background-color: white;
+    width: 350px;
+    height: 380px;
+    padding: 20px;
+    border-radius: 20px;
+    /* border: solid 3px black; */
+    display: flex;
+    align-items: center;
+    gap: 0px;
+    flex-direction: column;
+    box-shadow: 3px 7px 5px   rgba(255, 255, 255, 0.514);
+}
+
+.login-format{
+    display: flex;
+    /* background-color: black; */
+    /* border: solid yellow 3px; */
+    justify-content: center;
+    flex-direction: column;
+    height: 170px;
+    width: 300px;
+    align-items: center;
+    gap: 5px;
+}
+
+.input-username{
+    width: 100%;
+    height: 30px;
+    font-size: 16px;
+}
+
+.input-password{
+    width: 100%;
+    height: 30px;
+    font-size: 16px;
+}
+
+.login-btn{
+    /* width: 300px; */
+    width: auto;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    background-color: #00ff22;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    transition: 0.2s;
+}
+
+.login-btn:hover{
+    background-color: #029916;
+}   
+
+.button-card{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    align-items: center;
+}
