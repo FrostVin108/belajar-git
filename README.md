@@ -1,1 +1,1 @@
-INi saya curi dari internet dan semua di bikin mentor bang josh
+INi saya curi dari internet dan semua di bikin mentor bang
