@@ -1,1 +1,3 @@
-Lorem
+function button(){
+    alert="hi";
+}
