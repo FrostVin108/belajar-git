@@ -1,1 +1,1 @@
-ini adalah projek intergrasi git dengan github saya!
+Halo ini adalah projek intergrasi git dengan github saya!
